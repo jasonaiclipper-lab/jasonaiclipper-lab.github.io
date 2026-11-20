@@ -6,3 +6,4 @@ header{display:flex;align-items:center;gap:14px;margin-bottom:28px}
 h1{margin:0;font-size:28px}h2{margin-top:32px;font-size:20px}a{color:#ff7aa2}
 nav{display:flex;flex-wrap:wrap;gap:16px;margin:8px 0 32px;padding:12px 0;border-top:1px solid #26262f;border-bottom:1px solid #26262f}
 .muted{color:var(--muted)}footer{margin-top:48px;color:var(--muted);font-size:14px}
+ul{padding-left:20px}li{margin:6px 0}
